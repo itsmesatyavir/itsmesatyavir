@@ -56,7 +56,7 @@
 ### 🚀 Featured Projects
 
 - [**Airdrop**](https://github.com/itsmesatyavir/Airdrop) – Automating
-- [**Capture Bearer Token**](https://greasyfork.org/en/scripts/123456-capture-bearer-token) – Extracts tokens for advanced usage and development.
+- [**Capture Bearer Token**](https://greasyfork.org/itsmesatyavir) – Extracts tokens for advanced usage and development.
 - [**ForestArmy Tools**](https://github.com/itsmesatyavir?tab=repositories&q=tool) – A growing set of useful tools, scripts, and automation magic.
 
 ---
